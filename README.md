@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Tanmay Eknath Lotankar!
 
 💻 **Graduate Student | AI & Machine Learning Enthusiast**  
-📍 Buffalo, New York | 📧 tanmayek@buffalo.edu  
-🔗 [LinkedIn](https://linkedin.com/in/tanmay-lotankar)  
+📍 Buffalo, New York
 
 ---
 
