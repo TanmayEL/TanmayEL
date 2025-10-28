@@ -1,26 +1,99 @@
-# 👋 Hi, I'm Tanmay Eknath Lotankar!
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  
+  <h1>
+    Hey, I'm Tanmay!
+  </h1>
+  
+  <p>
+    I'm a CS Grad Student at <strong>SUNY Buffalo</strong> who already has 3+ years of professional experience working at <strong>Accenture</strong>.
+    <br />
+    I'm passionate about building smart, scalable software and automating the boring stuff.
+  </p>
+  
+  <a href="https://www.linkedin.com/in/tanmay-lotankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tanmayek@buffalo.edu"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-💻 **Graduate Student | AI & Machine Learning Enthusiast**  
-📍 Buffalo, New York | 📧 tanmayek@buffalo.edu  
-🔗 [LinkedIn](https://linkedin.com/in/tanmay-lotankar)  
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Master’s in Computer Science** at **University at Buffalo, SUNY** (2024 – Present)
-- 💼 Former **Software Engineer** at **Accenture**  
-- 🔍 Looking for **Summer 2025 Software Engineering Internship** opportunities  
-- 🧠 Passionate about **AI, Machine Learning, and Software Development**  
+### 🚀 My Current Mission
+
+I'm a developer who believes "if you have to do it twice, automate it."
+* 🎓 **Grad Student:** Currently getting my Master's in Computer Science @ SUNY Buffalo (Graduating Dec 2025).
+* 👨‍💻 **Pro Engineer:** Before this, I spent 3+ years at Accenture as a Software Engineer, where I:
+    * Cut bug detection time by **50%** by building testing frameworks into CI/CD pipelines.
+    * Slashed manual testing time by **75%** by automating database validation.
+    * Engineered automated data integrity checks on large-scale Azure data pipelines.
+* 🎯 **My Goal:** Seeking **full-time Software Engineering roles** starting **January 2026** where I can tackle complex problems in AI, ML, or distributed systems.
 
 ---
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 💡 My Pinned Projects
+
+I learn best by building. Here's what I've been hacking on:
+
+| Project | What's the Big Idea? | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Multimodal Code Summarizer** <br/> `(Work in Progress)` | Why just *read* code changes when you can *see* them? This project uses a hybrid **Vision Transformer (ViT)** (for visual diffs) and **CodeBERT** (for text) to generate smart pull request summaries. | `Python`, `PyTorch`, `Hugging Face`, `ViT`, `CodeBERT`, `OpenCV`, `FastAPI`, `Streamlit` |
+| **🌐 Decentralized File Sharer** | A full-stack, secure file-sharing app that skips the central server. Built with a React/Node frontend/backend and **IPFS** for peer-to-peer storage. | `React`, `Node.js`, `MongoDB`, `IPFS`, `Pinata`, `JWT` |
 
 ---
 
-## 📬 Connect With Me
-- 📧 **Email:** tanmayek@buffalo.edu  
-- 🔗 **LinkedIn:** [linkedin.com/in/tanmay-lotankar](https://linkedin.com/in/tanmay-lotankar)  
+### 🛠️ My Digital Toolbox
 
-🚀 *Excited to collaborate and learn!*  
+These are the languages, frameworks, and tools I use to get things done.
+
+<details>
+  <summary><strong>🤖 AI / Machine Learning</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>💻 Backend & Web Development</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>☁️ Cloud, DevOps & Tools</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  </p>
+</details>
+
+---
+
+### 🏆 My Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+  <img src="https://img.shields.io/badge/Microsoft_Certified_Azure_Fundamentals_AZ_900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals AZ-900"/>
+  <img src="https://img.shields.io/badge/Docker_Foundations_Professional-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Foundations"/>
+</p>
