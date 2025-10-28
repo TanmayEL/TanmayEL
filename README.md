@@ -19,26 +19,26 @@
 
 ---
 
+### 💡 My Pinned Projects
+
+I learn best by building. Here's what I have been hacking on:
+
+| Project | What's the Big Idea? | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Multimodal Code Summarizer** <br/> `(Work in Progress)` | Why just *read* code changes when you can *see* them? This project uses a hybrid **Vision Transformer (ViT)** (for visual diffs) and **CodeBERT** (for text) to generate smart pull request summaries. | `Python`, `PyTorch`, `Hugging Face`, `ViT`, `CodeBERT`, `OpenCV`, `FastAPI`, `Streamlit` |
+| **🌐 Decentralized File Sharer** | A full-stack, secure file-sharing app that skips the central server. Built with a React/Node frontend/backend and **IPFS** for peer-to-peer storage. | `React`, `Node.js`, `MongoDB`, `IPFS`, `Pinata`, `JWT` |
+
+---
+
 ### 🚀 My Current Mission
 
-I'm a developer who believes "if you have to do it twice, automate it."
+I am a developer who believes "if you have to do it twice, automate it."
 * 🎓 **Grad Student:** Currently getting my Master's in Computer Science @ SUNY Buffalo (Graduating Dec 2025).
 * 👨‍💻 **Pro Engineer:** Before this, I spent 3+ years at Accenture as a Software Engineer, where I:
     * Cut bug detection time by **50%** by building testing frameworks into CI/CD pipelines.
     * Slashed manual testing time by **75%** by automating database validation.
     * Engineered automated data integrity checks on large-scale Azure data pipelines.
 * 🎯 **My Goal:** Seeking **full-time Software Engineering roles** starting **January 2026** where I can tackle complex problems in AI, ML, or distributed systems.
-
----
-
-### 💡 My Pinned Projects
-
-I learn best by building. Here's what I've been hacking on:
-
-| Project | What's the Big Idea? | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 Multimodal Code Summarizer** <br/> `(Work in Progress)` | Why just *read* code changes when you can *see* them? This project uses a hybrid **Vision Transformer (ViT)** (for visual diffs) and **CodeBERT** (for text) to generate smart pull request summaries. | `Python`, `PyTorch`, `Hugging Face`, `ViT`, `CodeBERT`, `OpenCV`, `FastAPI`, `Streamlit` |
-| **🌐 Decentralized File Sharer** | A full-stack, secure file-sharing app that skips the central server. Built with a React/Node frontend/backend and **IPFS** for peer-to-peer storage. | `React`, `Node.js`, `MongoDB`, `IPFS`, `Pinata`, `JWT` |
 
 ---
 
