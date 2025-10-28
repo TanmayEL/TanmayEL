@@ -15,7 +15,8 @@
   <a href="https://www.linkedin.com/in/tanmay-lotankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:tanmayek@buffalo.edu"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-</div>
+💻 **Graduate Student | AI & Machine Learning Enthusiast**  
+📍 Buffalo, New York
 
 ---
 
