@@ -1,100 +1,72 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  
-  <h1>
-    Hey, I'm Tanmay!
-  </h1>
-  
-  <p>
-    I'm a CS Grad Student at <strong>SUNY Buffalo</strong> who already has 3+ years of professional experience working at <strong>Accenture</strong>.
-    <br />
-    I'm passionate about building smart, scalable software and automating the boring stuff.
-  </p>
-  
-  <a href="https://www.linkedin.com/in/tanmay-lotankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tanmayek@buffalo.edu"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <h1>Tanmay Lotankar</h1>
 
-💻 **Graduate Student | AI & Machine Learning Enthusiast**  
-📍 Buffalo, New York
+  <p>
+    Graduate in Computer Science (AI/ML) from <strong>SUNY Buffalo</strong><br/>
+    Software Engineer with 3+ years of industry experience at <strong>Accenture</strong>
+  </p>
+
+  <a href="https://www.linkedin.com/in/tanmay-lotankar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tanmay.elotankar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 💡 My Pinned Projects
+## About Me
 
-I learn best by building. Here's what I have been hacking on:
+I am a Computer Science graduate with a specialization in **AI and Machine Learning**, and over three years of professional experience building and maintaining production-grade software systems. Previously at Accenture, I worked on backend systems, automated validation pipelines, and data integrity frameworks supporting large-scale financial applications.
+
+My interests span **software engineering, applied machine learning, computer vision, and distributed systems**, with a focus on building reliable, scalable, and well-structured solutions. I enjoy working on projects that combine strong engineering fundamentals with applied ML research.
+
+I am seeking **full-time Software Engineering / AI Engineering roles starting Feb 2026**.
+
+---
+
+## My Pinned Projects
+
+I learn best by building. Below are selected projects that reflect my interests in software engineering, machine learning, and scalable systems.
 
 | Project | What's the Big Idea? | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 Multimodal Code Summarizer** <br/> `(Work in Progress)` | Why just *read* code changes when you can *see* them? This project uses a hybrid **Vision Transformer (ViT)** (for visual diffs) and **CodeBERT** (for text) to generate smart pull request summaries. | `Python`, `PyTorch`, `Hugging Face`, `ViT`, `CodeBERT`, `OpenCV`, `FastAPI`, `Streamlit` |
-| **🌐 Decentralized File Sharer** | A full-stack, secure file-sharing app that skips the central server. Built with a React/Node frontend/backend and **IPFS** for peer-to-peer storage. | `React`, `Node.js`, `MongoDB`, `IPFS`, `Pinata`, `JWT` |
+| **[Multimodal Code Summarizer](https://github.com/TanmayEL/multimodal-code-summarizer)** <br/> *(Work in Progress)* | An end-to-end system for automated pull request summarization that combines **visual and textual representations of code changes**. Leverages a hybrid **Vision Transformer (ViT)** + **CodeBERT** architecture, enhanced with **LLM API integration** and **Retrieval-Augmented Generation (RAG)** to ground summaries in repository context, commit history, and code semantics. | `Python`, `PyTorch`, `Hugging Face`, `Vision Transformers`, `CodeBERT`, `OpenCV`, `LLM APIs`, `RAG`, `FastAPI`, `Streamlit` |
+| **[Multi-Temporal Urban Change Detection]((https://github.com/TanmayEL/urban_change_detection))** <br/> *(Work in Progress)*  | A computer vision pipeline for detecting and visualizing **urban growth from time-separated satellite imagery**. Implements classical CV baselines and is being extended toward geospatial-aware processing with vectorized outputs and interactive visualization. | `Python`, `OpenCV`, `NumPy`, `Geospatial CV`, `Raster Processing`, `Streamlit` |
+| **[Decentralized File Sharing Platform (IPFS)](https://github.com/TanmayEL/decentralized-file-sharing-ipfs)** | A secure, full-stack file-sharing platform that removes centralized storage by leveraging **IPFS** for peer-to-peer file distribution, with authenticated access and metadata management. | `React`, `Node.js`, `MongoDB`, `IPFS`, `Pinata`, `JWT` |
 
 ---
 
-### 🚀 My Current Mission
+## Technical Skills
 
-I am a developer who believes "if you have to do it twice, automate it."
-* 🎓 **Grad Student:** Currently getting my Master's in Computer Science @ SUNY Buffalo (Graduating Dec 2025).
-* 👨‍💻 **Pro Engineer:** Before this, I spent 3+ years at Accenture as a Software Engineer, where I:
-    * Cut bug detection time by **50%** by building testing frameworks into CI/CD pipelines.
-    * Slashed manual testing time by **75%** by automating database validation.
-    * Engineered automated data integrity checks on large-scale Azure data pipelines.
-* 🎯 **My Goal:** Seeking **full-time Software Engineering roles** starting **January 2026** where I can tackle complex problems in AI, ML, or distributed systems.
+**Programming Languages**  
+Python, Java, JavaScript, TypeScript, Go, Scala, C#
 
----
+**Machine Learning & AI**  
+PyTorch, TensorFlow, Hugging Face, Computer Vision, Transformers, NLP, LLMs, scikit-learn, OpenCV
 
-### 🛠️ My Digital Toolbox
+**Backend & Web Development**  
+Node.js, FastAPI, Express, React, REST APIs
 
-These are the languages, frameworks, and tools I use to get things done.
+**Data & Distributed Systems**  
+Apache Spark, Databricks, PostgreSQL, MongoDB, DynamoDB
 
-<details>
-  <summary><strong>🤖 AI / Machine Learning</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  </p>
-</details>
-
-<details>
-  <summary><strong>💻 Backend & Web Development</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
-</details>
-
-<details>
-  <summary><strong>☁️ Cloud, DevOps & Tools</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-  </p>
-</details>
+**Cloud & DevOps**  
+Git, CI/CD, Docker, Kubernetes, Microsoft Azure, AWS (EC2, SQS), Netlify
 
 ---
 
-### 🏆 My Certifications
+## Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/Microsoft_Certified_Azure_Fundamentals_AZ_900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals AZ-900"/>
-  <img src="https://img.shields.io/badge/Docker_Foundations_Professional-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Foundations"/>
-</p>
+- AWS Certified Cloud Practitioner  
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Docker Foundations Professional
+
+---
+
+## Interests
+
+- Large Language Models and Retrieval-Augmented Generation (RAG)
+- Applied Computer Vision for real-world datasets
+- Scalable backend systems and developer productivity tooling
