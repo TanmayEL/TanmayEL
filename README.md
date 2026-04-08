@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmay--lotankar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-lotankar)
 [![Email](https://img.shields.io/badge/Email-tanmay.elotankar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmay.elotankar@gmail.com)
 
-[![AWS](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]([https://aws.amazon.com/certification/](https://www.credly.com/badges/23c6d403-452b-4fb7-b52e-b64bf89b44fc/public_url))
-[![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)]([https://learn.microsoft.com/en-us/certifications/azure-fundamentals/](https://learn.microsoft.com/api/credentials/share/en-us/EknathLotankarTanmay-2022/CF97D2F02BAB157C?sharingId=58E47D44F9716E9F))
+[![AWS](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/23c6d403-452b-4fb7-b52e-b64bf89b44fc/public_url)
+[![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/EknathLotankarTanmay-2022/CF97D2F02BAB157C?sharingId=58E47D44F9716E9F)
 
 </div>
 
