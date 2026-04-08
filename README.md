@@ -1,72 +1,140 @@
 <div align="center">
-  <h1>Tanmay Lotankar</h1>
 
-  <p>
-    Graduate in Computer Science (AI/ML) from <strong>SUNY Buffalo</strong><br/>
-    Software Engineer with 3+ years of industry experience at <strong>Accenture</strong>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanmay+%F0%9F%91%8B;Backend+%26+Full-Stack+Engineer;Distributed+Systems+%7C+AI%2FLLM+Tooling;Building+things+that+scale." alt="Typing SVG" />
 
-  <a href="https://www.linkedin.com/in/tanmay-lotankar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tanmay.elotankar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmay--lotankar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-lotankar)
+[![Email](https://img.shields.io/badge/Email-tanmay.elotankar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmay.elotankar@gmail.com)
+
+[![AWS](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-I am a Computer Science graduate with a specialization in **AI and Machine Learning**, and over three years of professional experience building and maintaining production-grade software systems. Previously at Accenture, I worked on backend systems, automated validation pipelines, and data integrity frameworks supporting large-scale financial applications.
+Backend and full-stack engineer with **3+ years** of production experience at Accenture, where I built the real-time PnL platform for a global investment bank, processing millions of trades daily across Kafka pipelines, Spark jobs, and a Redis caching layer that cut latency by 50%.
 
-My interests span **software engineering, applied machine learning, computer vision, and distributed systems**, with a focus on building reliable, scalable, and well-structured solutions. I enjoy working on projects that combine strong engineering fundamentals with applied ML research.
+I completed my **M.S. in Computer Science (AI/ML focus)** at SUNY Buffalo in Dec 2025, and I am now in NYC focused on the intersection of **distributed backend systems** and **LLM-powered tooling**.
 
-I am seeking **full-time Software Engineering / AI Engineering roles starting Feb 2026**.
-
----
-
-## My Pinned Projects
-
-I learn best by building. Below are selected projects that reflect my interests in software engineering, machine learning, and scalable systems.
-
-| Project | What's the Big Idea? | Tech Stack |
-| :--- | :--- | :--- |
-| **[Multimodal Code Summarizer](https://github.com/TanmayEL/multimodal-code-summarizer)** <br/> *(Work in Progress)* | An end-to-end system for automated pull request summarization that combines **visual and textual representations of code changes**. Leverages a hybrid **Vision Transformer (ViT)** + **CodeBERT** architecture, enhanced with **LLM API integration** and **Retrieval-Augmented Generation (RAG)** to ground summaries in repository context, commit history, and code semantics. | `Python`, `PyTorch`, `Hugging Face`, `Vision Transformers`, `CodeBERT`, `OpenCV`, `LLM APIs`, `RAG`, `FastAPI`, `Streamlit` |
-| **[Multi-Temporal Urban Change Detection](https://github.com/TanmayEL/urban_change_detection)** <br/> *(Work in Progress)*  | A computer vision pipeline for detecting and visualizing **urban growth from time-separated satellite imagery**. Implements classical CV baselines and is being extended toward geospatial-aware processing with vectorized outputs and interactive visualization. | `Python`, `OpenCV`, `NumPy`, `Geospatial CV`, `Raster Processing`, `Streamlit` |
-| **[Decentralized File Sharing Platform (IPFS)](https://github.com/TanmayEL/decentralized-file-sharing-ipfs)** | A secure, full-stack file-sharing platform that removes centralized storage by leveraging **IPFS** for peer-to-peer file distribution, with authenticated access and metadata management. | `React`, `Node.js`, `MongoDB`, `IPFS`, `Pinata`, `JWT` |
+I don't just *use* AI APIs, I build pipelines around them: prompt engineering, RAG context retrieval, structured output, and production deployment on AWS.
 
 ---
 
-## Technical Skills
+## `$ cat production_experience.txt`
 
-**Programming Languages**  
-Python, Java, JavaScript, TypeScript, Go, Scala, C#
+**Accenture → Global Investment Bank PnL Platform** *(Jun 2021 – Jul 2024)*
 
-**Machine Learning & AI**  
-PyTorch, TensorFlow, Hugging Face, Computer Vision, Transformers, NLP, LLMs, scikit-learn, OpenCV
+```
+Trade Events (millions/day)
+        │
+        ▼
+  [Kafka Pipeline] ──► PostgreSQL (bulk insert + upsert)
+        │                    │
+        │              [Redis Cache-Aside]  ◄── 50% latency reduction
+        │                    │
+        ▼                    ▼
+  [Node.js REST APIs] ──► React Dashboard (real-time portfolio data)
+        │
+        ▼
+  [CloudWatch] — structured logging, latency monitoring, incident triage
+```
 
-**Backend & Web Development**  
-Node.js, FastAPI, Express, React, REST APIs
-
-**Data & Distributed Systems**  
-Apache Spark, Databricks, PostgreSQL, MongoDB, DynamoDB
-
-**Cloud & DevOps**  
-Git, CI/CD, Docker, Kubernetes, Microsoft Azure, AWS (EC2, SQS), Netlify
+- Replaced static report exports with a **live React dashboard**: real-time portfolio & trade data via REST APIs
+- Built responsive React components consuming Node.js APIs, rendering high-volume financial data with no page reloads
+- Eliminated data refresh inconsistencies across **3 downstream reporting services**
+- CI/CD-integrated Selenium test suite cut QA cycle from **2 days → 30 min**
 
 ---
 
-## Certifications
+## `$ cat what_i_ship.txt`
 
-- AWS Certified Cloud Practitioner  
-- Microsoft Certified: Azure Fundamentals (AZ-900)  
-- Docker Foundations Professional
+### 🤖 AI-Powered Code Review Pipeline &nbsp;·&nbsp; [View Repo ↗](https://github.com/TanmayEL/ai-code-review-summarizer)
+> LangChain + RAG + Claude API + AWS
+
+Agentic pipeline that processes PR diffs end-to-end. Built a RAG retrieval layer for codebase context, engineered prompts for structured review outputs, and deployed the full system on AWS: EC2 (FastAPI), SQS (job queue), Lambda (processor), DynamoDB (storage): provisioned from a single CloudFormation template.
+
+**Stack:** `Python` `FastAPI` `LangChain` `Claude API` `AWS EC2/SQS/Lambda/DynamoDB` `CloudFormation`
 
 ---
 
-## Interests
+### 🗂️ Decentralized File Storage Platform &nbsp;·&nbsp; [View Repo ↗](https://github.com/TanmayEL/decentralized-file-sharing-ipfs)
+> React + Node.js + IPFS + MongoDB
 
-- Large Language Models and Retrieval-Augmented Generation (RAG)
-- Applied Computer Vision for real-world datasets
-- Scalable backend systems and developer productivity tooling
+Full-stack platform connecting a REST API backend to IPFS-based distributed storage via Pinata. JWT auth + RBAC, upload validation + compression pipeline, file metadata in MongoDB.
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `IPFS / Pinata` `JWT`
+
+---
+
+### 🛰️ Urban Growth Change Detection &nbsp;·&nbsp; [View Repo ↗](https://github.com/TanmayEL/urban_change_detection)
+> Python · Computer Vision · Sentinel-2 Satellite Imagery
+
+Pixel-level change detection pipeline comparing two satellite images (T1 vs T2) of the same location. Ingests raw Sentinel-2 GeoTIFF band files, runs image differencing → binary segmentation → morphological denoising → connected component filtering → contour-to-polygon vectorization, and outputs a change mask, overlay, comparison figure, and `stats.json` (changed area %, polygon count).
+
+Designed as a modular baseline — roadmap includes GeoJSON export with real-world coordinates, ECC/feature-matching alignment, a Streamlit demo UI, and ML-based segmentation (U-Net) for robustness to clouds and seasonal drift.
+
+**Stack:** `Python` `OpenCV` `Shapely` `GeoTIFF / Sentinel-2` `NumPy`
+
+---
+
+## `$ ls skills/`
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,java,go,scala&theme=light)](https://skillicons.dev)
+
+**Frontend & Backend**
+
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,graphql&theme=light)](https://skillicons.dev)
+
+**Databases & Streaming**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb,dynamodb,kafka&theme=light)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git&theme=light)](https://skillicons.dev)
+
+**AI / ML**
+
+`PyTorch` `TensorFlow` `LangChain` `Claude API` `OpenAI API` `RAG` `Prompt Engineering`
+
+---
+
+## `$ cat stats.sh | bash`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TanmayEL&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayEL&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayEL&theme=github-dark-blue&hide_border=true" height="150" />
+
+</div>
+
+---
+
+## `$ cat status.txt`
+
+```yaml
+status:         actively_interviewing
+location:       New York City
+open_to:        SDE | Full-Stack | Backend | AI/LLM Engineering roles
+work_auth:      OPT (no sponsorship required, valid 36 months)
+availability:   immediate
+reach_me_at:    tanmay.elotankar@gmail.com
+```
+
+---
+
+<div align="center">
+  <sub>If you are hiring for backend systems or AI tooling - let's talk.</sub>
+</div>
